@@ -8,13 +8,13 @@ C:\Users\donnie\Desktop\Holland College\2023-2024\Fall\CIS-2225\Topic 1\Sep11Cla
 C:\Users\donnie\Desktop\Holland College\2023-2024\Fall\CIS-2225\Topic 1\Sep11Class\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
 C:\Users\donnie\Desktop\Holland College\2023-2024\Fall\CIS-2225\Topic 1\Sep11Class\TaxAppSolution\TaxApp\obj\Debug\TaxApp.exe
 C:\Users\donnie\Desktop\Holland College\2023-2024\Fall\CIS-2225\Topic 1\Sep11Class\TaxAppSolution\TaxApp\obj\Debug\TaxApp.pdb
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\bin\Debug\TaxApp.exe.config
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\bin\Debug\TaxApp.exe
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\bin\Debug\TaxApp.pdb
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.AssemblyReference.cache
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.frmTaxHome.resources
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.cache
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.exe
-C:\Users\dmmckinnon\Desktop\CIS2225\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.pdb
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\bin\Debug\TaxApp.exe.config
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\bin\Debug\TaxApp.exe
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\bin\Debug\TaxApp.pdb
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.AssemblyReference.cache
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.frmTaxHome.resources
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.cache
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.exe
+C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.pdb

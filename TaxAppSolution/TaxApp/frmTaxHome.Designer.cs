@@ -42,7 +42,7 @@ namespace TaxApp
             // 
             this.txtName.Location = new System.Drawing.Point(187, 28);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(100, 20);
+            this.txtName.Size = new System.Drawing.Size(184, 20);
             this.txtName.TabIndex = 0;
             // 
             // txtIncome
@@ -64,7 +64,7 @@ namespace TaxApp
             // lblIncome
             // 
             this.lblIncome.AutoSize = true;
-            this.lblIncome.Location = new System.Drawing.Point(113, 64);
+            this.lblIncome.Location = new System.Drawing.Point(113, 61);
             this.lblIncome.Name = "lblIncome";
             this.lblIncome.Size = new System.Drawing.Size(45, 13);
             this.lblIncome.TabIndex = 3;
@@ -82,7 +82,7 @@ namespace TaxApp
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(223, 87);
+            this.btnClear.Location = new System.Drawing.Point(286, 87);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 23);
             this.btnClear.TabIndex = 5;
