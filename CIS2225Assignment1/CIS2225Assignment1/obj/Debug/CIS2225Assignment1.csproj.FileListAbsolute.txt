@@ -12,7 +12,7 @@ C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1
 C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1\CIS2225Assignment1\bin\Debug\CIS2225Assignment1.exe
 C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1\CIS2225Assignment1\bin\Debug\CIS2225Assignment1.pdb
 C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.csproj.AssemblyReference.cache
-C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.Form1.resources
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.frmMain.resources
 C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.Properties.Resources.resources
 C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.csproj.GenerateResource.cache
 C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.csproj.CoreCompileInputs.cache
