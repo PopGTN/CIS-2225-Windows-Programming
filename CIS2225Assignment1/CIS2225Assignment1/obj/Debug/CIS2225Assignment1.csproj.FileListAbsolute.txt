@@ -1,0 +1,10 @@
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\bin\Debug\CIS2225Assignment1.exe.config
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\bin\Debug\CIS2225Assignment1.exe
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\bin\Debug\CIS2225Assignment1.pdb
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.csprojAssemblyReference.cache
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.Form1.resources
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.Properties.Resources.resources
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.csproj.GenerateResource.cache
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.exe
+C:\Users\donni\Desktop\Holland College\2021-2022\Fall Semester\CIS-2225\Topic 1\Assignment 1\StartingCode\CIS2225Assignment1\CIS2225Assignment1\obj\Debug\CIS2225Assignment1.pdb
