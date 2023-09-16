@@ -18,3 +18,13 @@ C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debu
 C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
 C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.exe
 C:\Users\dmmckinnon\Downloads\TaxAppSolutionStart\TaxAppSolution\TaxApp\obj\Debug\TaxApp.pdb
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\bin\Debug\TaxApp.exe.config
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\bin\Debug\TaxApp.exe
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\bin\Debug\TaxApp.pdb
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.AssemblyReference.cache
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\obj\Debug\TaxApp.frmTaxHome.resources
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.cache
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\obj\Debug\TaxApp.exe
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\TaxAppSolution\TaxApp\obj\Debug\TaxApp.pdb
