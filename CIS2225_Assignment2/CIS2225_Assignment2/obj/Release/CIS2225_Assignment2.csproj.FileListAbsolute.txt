@@ -1,0 +1,10 @@
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\bin\Release\CIS2225_Assignment2.exe.config
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\bin\Release\CIS2225_Assignment2.exe
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\bin\Release\CIS2225_Assignment2.pdb
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\obj\Release\CIS2225_Assignment2.csproj.AssemblyReference.cache
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\obj\Release\CIS2225_Assignment2.frmMain.resources
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\obj\Release\CIS2225_Assignment2.Properties.Resources.resources
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\obj\Release\CIS2225_Assignment2.csproj.GenerateResource.cache
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\obj\Release\CIS2225_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\obj\Release\CIS2225_Assignment2.exe
+C:\Users\Joshua\Documents\GitHub\cis2225\CIS2225_Assignment2\CIS2225_Assignment2\obj\Release\CIS2225_Assignment2.pdb
