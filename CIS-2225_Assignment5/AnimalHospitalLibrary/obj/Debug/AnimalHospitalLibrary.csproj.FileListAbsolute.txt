@@ -9,3 +9,9 @@ C:\Users\donni\Desktop\Holland College\2020-2021\Fall Semester\2225\Topic5\Assig
 C:\Users\donni\Desktop\Holland College\2020-2021\Fall Semester\2225\Topic5\Assignment5 for Students\CIS-2225_Assignment5\AnimalHospitalLibrary\obj\Debug\AnimalHospitalLibrary.csproj.CoreCompileInputs.cache
 C:\Users\donni\Desktop\Holland College\2020-2021\Fall Semester\2225\Topic5\Assignment5 for Students\CIS-2225_Assignment5\AnimalHospitalLibrary\obj\Debug\AnimalHospitalLibrary.dll
 C:\Users\donni\Desktop\Holland College\2020-2021\Fall Semester\2225\Topic5\Assignment5 for Students\CIS-2225_Assignment5\AnimalHospitalLibrary\obj\Debug\AnimalHospitalLibrary.pdb
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS-2225_Assignment5\AnimalHospitalLibrary\bin\Debug\AnimalHospitalLibrary.dll
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS-2225_Assignment5\AnimalHospitalLibrary\bin\Debug\AnimalHospitalLibrary.pdb
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS-2225_Assignment5\AnimalHospitalLibrary\obj\Debug\AnimalHospitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS-2225_Assignment5\AnimalHospitalLibrary\obj\Debug\AnimalHospitalLibrary.dll
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS-2225_Assignment5\AnimalHospitalLibrary\obj\Debug\AnimalHospitalLibrary.pdb
+C:\Users\Joshua\Documents\GitHub\CIS-2225-Windows-Programming\CIS-2225_Assignment5\AnimalHospitalLibrary\obj\Debug\AnimalHospitalLibrary.csproj.AssemblyReference.cache

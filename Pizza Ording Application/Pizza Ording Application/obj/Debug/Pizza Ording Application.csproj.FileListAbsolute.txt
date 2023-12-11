@@ -1,0 +1,10 @@
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\bin\Debug\Pizza Ording Application.exe.config
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\bin\Debug\Pizza Ording Application.exe
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\bin\Debug\Pizza Ording Application.pdb
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\obj\Debug\Pizza Ording Application.csproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\obj\Debug\Pizza_Ording_Application.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\obj\Debug\Pizza Ording Application.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\obj\Debug\Pizza Ording Application.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\obj\Debug\Pizza Ording Application.exe
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\obj\Debug\Pizza Ording Application.pdb
+C:\Users\Joshua\source\repos\Pizza Ording Application\Pizza Ording Application\obj\Debug\Pizza_Ording_Application.frmMain.resources

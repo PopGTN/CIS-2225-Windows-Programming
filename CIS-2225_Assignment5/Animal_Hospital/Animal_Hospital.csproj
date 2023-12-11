@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AnimalHospitalLibrary\AnimalHospitalLibrary.csproj">
+      <Project>{955a3689-f4f1-4e7a-9d3c-160e84eeb5e9}</Project>
+      <Name>AnimalHospitalLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

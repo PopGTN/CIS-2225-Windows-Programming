@@ -1,0 +1,11 @@
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\bin\x86\Debug\CISDB.accdb
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\bin\x86\Debug\DataBaseConnectDemo.exe.config
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\bin\x86\Debug\DataBaseConnectDemo.exe
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\bin\x86\Debug\DataBaseConnectDemo.pdb
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\obj\x86\Debug\DataBaseConnectDemo.csprojAssemblyReference.cache
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\obj\x86\Debug\DataBaseConnectDemo.frmMain.resources
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\obj\x86\Debug\DataBaseConnectDemo.Properties.Resources.resources
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\obj\x86\Debug\DataBaseConnectDemo.csproj.GenerateResource.cache
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\obj\x86\Debug\DataBaseConnectDemo.csproj.CoreCompileInputs.cache
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\obj\x86\Debug\DataBaseConnectDemo.exe
+C:\Users\donni\source\repos\Topic6Examples\DataBaseConnectDemo\obj\x86\Debug\DataBaseConnectDemo.pdb

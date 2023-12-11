@@ -1,0 +1,9 @@
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\bin\Debug\Mckenna_Joshua_CIS-2225_Partical3.exe.config
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\bin\Debug\Mckenna_Joshua_CIS-2225_Partical3.exe
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\bin\Debug\Mckenna_Joshua_CIS-2225_Partical3.pdb
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\obj\Debug\Mckenna_Joshua_CIS_2225_Partical3.frmMain.resources
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\obj\Debug\Mckenna_Joshua_CIS_2225_Partical3.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\obj\Debug\Mckenna_Joshua_CIS-2225_Partical3.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\obj\Debug\Mckenna_Joshua_CIS-2225_Partical3.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\obj\Debug\Mckenna_Joshua_CIS-2225_Partical3.exe
+C:\Users\Joshua\source\repos\Mckenna_Joshua_CIS-2225_Partical3\Mckenna_Joshua_CIS-2225_Partical3\obj\Debug\Mckenna_Joshua_CIS-2225_Partical3.pdb

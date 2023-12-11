@@ -17,7 +17,30 @@ namespace AnimalHospitalLibrary
      * Override the abstract class AnimalTalk
      * Override toString
      */
-    class Horse
+    public class Horse : Animal
     {
+        public static string[] HORSE_TYPES = { "Thoroughbred", "Quarter Horse", "Arabian", "Clydesdale", "Appaloosa" };
+
+        private string horsetype;
+ 
+        public string Horsetype { get { return horsetype; } set { horsetype = value; } }
+
+
+        public Horse(string name, int numLegs,string vDate, string reason, string color, string horsetype) : 
+        base(name, numLegs,vDate, reason, color)
+        {
+            this.horsetype = horsetype;
+
+        }
+        
+        public override string AnimalTalk()
+        {
+            return "The " + horsetype + " named " + base.AnimalName + " says Naaaa";
+        }
+
+        public override string ToString()
+        {
+            return "The " + horsetype + " named " + base.ToString();
+        }
     }
 }

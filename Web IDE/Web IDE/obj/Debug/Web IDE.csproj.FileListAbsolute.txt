@@ -1,0 +1,11 @@
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\bin\Debug\Web IDE.exe.config
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\bin\Debug\Web IDE.exe
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\bin\Debug\Web IDE.pdb
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\obj\Debug\Web IDE.csproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\obj\Debug\Web_IDE.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\obj\Debug\Web IDE.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\obj\Debug\Web IDE.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\obj\Debug\Web IDE.exe
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\obj\Debug\Web IDE.pdb
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\obj\Debug\Web_IDE.frmMain.resources
+C:\Users\Joshua\source\repos\Web IDE\Web IDE\obj\Debug\Web_IDE.PresentationLayer.frmMenu.resources

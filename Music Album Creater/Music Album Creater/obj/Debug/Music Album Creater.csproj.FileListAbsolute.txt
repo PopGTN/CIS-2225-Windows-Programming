@@ -1,0 +1,16 @@
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\bin\Debug\Music Album Creater.exe.config
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\bin\Debug\Music Album Creater.exe
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\bin\Debug\Music Album Creater.pdb
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music Album Creater.csproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music_Album_Creater.frmMain.resources
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music_Album_Creater.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music Album Creater.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music Album Creater.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music Album Creater.exe
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music Album Creater.pdb
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music_Album_Creater.PresentationLayer.frmView.resources
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music_Album_Creater.PresentationLayer.frmEdit.resources
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\bin\Debug\en\Music Album Creater.resources.dll
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music_Album_Creater.frmMain.en.resources
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\en\Music Album Creater.resources.dll
+C:\Users\Joshua\source\repos\Music Album Creater\Music Album Creater\obj\Debug\Music_Album_Creater.PresentationLayer.frmSong.resources

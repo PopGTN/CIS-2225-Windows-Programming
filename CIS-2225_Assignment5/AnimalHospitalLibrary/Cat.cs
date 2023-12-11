@@ -17,7 +17,30 @@ namespace AnimalHospitalLibrary
      * Override the abstract class AnimalTalk
      * Override toString
      */
-    class Cat
+    public class Cat : Animal
     {
+        public static string[] CAT_TYPES = { "Siamese", "Persian", "Maine Coon", "Bengal", "Sphynx" };
+
+        private string catType;
+
+        public string CatType { get { return catType; } set { catType = value; } }
+
+
+        public Cat(string name, int numLegs, string vDate, string reason, string color, string catType) :
+        base(name, numLegs, vDate, reason, color)
+        {
+            this.catType = catType;
+
+        }
+
+        public override string AnimalTalk()
+        {
+            return "The " + catType + " named " + base.AnimalName + " says meow";
+        }
+
+        public override string ToString()
+        {
+            return "The " + catType + " named " + base.ToString();
+        }
     }
 }

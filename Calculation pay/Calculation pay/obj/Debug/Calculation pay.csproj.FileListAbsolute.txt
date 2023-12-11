@@ -1,0 +1,10 @@
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\bin\Debug\Calculation pay.exe.config
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\bin\Debug\Calculation pay.exe
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\bin\Debug\Calculation pay.pdb
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\obj\Debug\Calculation pay.csproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\obj\Debug\Calculation_pay.frmMain.resources
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\obj\Debug\Calculation_pay.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\obj\Debug\Calculation pay.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\obj\Debug\Calculation pay.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\obj\Debug\Calculation pay.exe
+C:\Users\Joshua\source\repos\Calculation pay\Calculation pay\obj\Debug\Calculation pay.pdb
